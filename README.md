@@ -24,5 +24,6 @@ Parameter 2: Type of path
 Parameter 3: Either display time, the routes picked, or the graph of the map.
 
 ./city_map none|best|worst|avg time|print|jgraph -map on standard input
-Example:
+
+# Example
 ./city_map best print < city-2.txt
